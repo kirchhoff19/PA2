@@ -1,0 +1,21 @@
+1. Link website
+https://sipradel.jtptapanuli.com/
+
+2. Aktor
+user:
+1. email: fite@gmail.com
+   password: 12345678
+2. email: keasramaan@gmail.com
+   password: 12345678
+3. email: fti@gmail.com
+   password: 12345678
+4. email: kantin@gmail.com
+   password: 12345678
+5. email: lppm@gmail.com
+   password: 12345678
+6. email: fb@gmail.com
+   password: 12345678
+
+ADMIN
+1. email: admin@gmail.com
+   password: 12345678
